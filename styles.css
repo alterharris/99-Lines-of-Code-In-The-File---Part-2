@@ -1,0 +1,33 @@
+body {
+background-color:#0F2C4A;
+color: white;
+font-family:didot;
+
+}
+h1 {
+    text-align:center;
+    font-family:didot;
+    color:rgba(131, 132, 88, 0.80);
+    text-shadow: 2px 2px black;
+
+}
+h3 {
+    color: white;
+}
+
+button {
+    display: block;
+    width: 80px;
+    height: 40px;
+    border-radius: 0em;
+    font-size: 1.5em;
+    margin: 1em auto;
+
+}
+div.friend { 
+    font-family:didot;
+    color:rgba(131, 132, 88, 0.80);
+    text-transform: uppercase;
+    text-shadow: 1px 1px white;
+} 
+
