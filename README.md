@@ -4,7 +4,7 @@ Lab 03: 99 Lines of Code In The File - Part 2
 
 Covalence
 
-Full Stack: Spring 2017
+Full Stack: Fall 2017
 
 Info
 
